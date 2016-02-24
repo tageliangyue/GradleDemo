@@ -1,2 +1,2 @@
 # GradleDemo
-android studio gradle
+gradle在android studio中的简单应用
